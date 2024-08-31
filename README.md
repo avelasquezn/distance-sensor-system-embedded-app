@@ -7,4 +7,3 @@ This project is an embedded system application that uses a distance sensor to me
 - Arduino Uno
 - HC-SR04 Ultrasonic Sensor
 - LCD Display (16x2)
-- 
